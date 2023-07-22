@@ -2,7 +2,7 @@
 name = "OPhO Calculator"
 version = "0.1.0"
 description = "Simple calculator for OPhO 2023"
-authors = Osama
+authors = ["Osama <osamaelmahdi.05@gmail.com>"]
 
 [tool.poetry.dependencies]
 python = ">=3.9.17,<3.11"
