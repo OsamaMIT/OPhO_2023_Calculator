@@ -1,11 +1,11 @@
 [tool.poetry]
-name = "python-template"
+name = "OPhO Calculator"
 version = "0.1.0"
-description = ""
-authors = ["Your Name <you@example.com>"]
+description = "Simple calculator for OPhO 2023"
+authors = Osama
 
 [tool.poetry.dependencies]
-python = ">=3.10.0,<3.11"
+python = ">=3.9.17,<3.11"
 numpy = "^1.22.2"
 replit = "^3.2.4"
 Flask = "^2.2.0"
